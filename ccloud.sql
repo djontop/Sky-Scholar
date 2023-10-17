@@ -141,9 +141,6 @@ CREATE TABLE IF NOT EXISTS `studenttable` (
 
 -- Dumping data for table ccloudproject.studenttable: ~6 rows (approximately)
 INSERT INTO `studenttable` (`Eno`, `FName`, `LName`, `FaName`, `Addrs`, `Gender`, `Course`, `DOB`, `PhNo`, `Pass`, `Eid`) VALUES
-	(1, 'Robert', 'Huffman', 'Jason Huffman', '220  Cardinal Lane', 'Male', 'BIT', '1996-07-16', 7010101250, 'password', 'robert@gmail.com'),
-	(2, 'stv2', 'wdwd', 'dawda', 'afdaeuhfeoufheufeufeufebf', 'Male', 'sex', '2002-09-11', 9393838388, 'boda', 'wdwda@gmaniil.com'),
-	(146891665, 'awdadwd', 'awdwadwad', 'wadwadwadwd', 'wdadwadwad', 'Male', 'wadwadawd', '2023-10-05', 8128828888, 'adwadwad', 'wdadwad@vit.edu'),
 	(146891666, 'wdwdw', 'wdwd', 'op', 'omnhbhbhbhibhi', 'Male', 'jhy', '1111-11-11', 8888888888, 'wdwdwdwdwd', 'dnwdnw@vit.ecii'),
 	(146891667, 'wdwdw', 'wdwd', 'op', 'omnhbhbhbhibhi', 'Male', 'jhy', '1111-11-11', 8888888888, 'wdwdwdwdwd', 'dnwdnw@vit.ecii'),
 	(146891668, 'bodawdw', 'bodawdw', 'bodawdw', 'bodadwd', 'Male', 'bodawd', '1111-11-11', 1111111111, 'wwwwww', 'bodaz@vit.edu');
